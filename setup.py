@@ -12,7 +12,7 @@ else:
 
 setup(
     name='pytorch-attention',
-    version='1.0',
+    version='1.0-rc-1',
     description='PyTorch Simple Attention',
     author='Javier Lorenzo Díaz',
     url='https://github.com/javierlorenzod/pytorch-attention-mechanism',
