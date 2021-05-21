@@ -17,14 +17,6 @@ top represents the attention map and the bottom the ground truth. As the trainin
 task and the attention map converges to the ground truth.
 
 <p align="center">
-  <img src="examples/attention.gif" width="320">
+  <img src="https://raw.githubusercontent.com/javierlorenzod/pytorch-attention-mechanism/main/examples/attention.gif" width="320">
 </p>
 
-## TODO
-
-- [x] Packaged version
-- [ ] CI inclusion
-- [x] replicate `add_two_numbers.py`
-- [ ] replicate `example-attention.py`
-- [ ] replicate `find_max.py`
-- [ ] replicate `imdb.py`
