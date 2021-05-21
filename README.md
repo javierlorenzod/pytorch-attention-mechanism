@@ -22,7 +22,7 @@ task and the attention map converges to the ground truth.
 
 ## TODO
 
-- [ ] Packaged version
+- [x] Packaged version
 - [ ] CI inclusion
 - [x] replicate `add_two_numbers.py`
 - [ ] replicate `example-attention.py`
